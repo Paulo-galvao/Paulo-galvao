@@ -2,7 +2,7 @@
 
 Estudante
  - Lions Startups - Liderança em tecnologia - conluído em 2024.
- - 
+   
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-galvao)](https://github.com/anuraghazra/github-readme-stats) -->
 
