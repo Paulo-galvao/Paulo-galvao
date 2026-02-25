@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 Estudante
- - Lions Startups - Liderança em tecnologia - conluído em 2024.
- - Lions Startups - Tech Skills - 2025(em andamento).
-   
+ - Lions Startups - Liderança em tecnologia - conluído em 2024.   
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-galvao)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -11,6 +9,7 @@ Estudante
 
 Contatos:
  - (42) 998562378
+ - paulogalvaoj21@gmail.com
 
 <!--
 **Paulo-galvao/Paulo-galvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
