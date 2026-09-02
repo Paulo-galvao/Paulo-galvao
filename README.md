@@ -2,10 +2,8 @@
 
 Estudante
  - Lions Startups - Liderança em tecnologia - conluído em 2024.   
+ - UTFPR - Análise e Desenvolvimento de Sistemas - 2026
 
-Contatos:
- - (42) 998562378
- - paulogalvaoj21@gmail.com
 
 <!--
 **Paulo-galvao/Paulo-galvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
